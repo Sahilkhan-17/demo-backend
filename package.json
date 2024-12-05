@@ -1,0 +1,11 @@
+{
+  "name": "demo-backend",
+  "version": "1.0.0",
+  "description": "Practicing Backend Using JS, NodeJs, Express, MongoDB, Mongoose etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil Khan",
+  "license": "ISC"
+}
